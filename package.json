@@ -13,6 +13,7 @@
     "@expo-google-fonts/noto-sans": "^0.2.3",
     "@expo/vector-icons": "^14.0.0",
     "@jellyfish-dev/react-native-client-sdk": "^0.1.6",
+    "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.9.26",
     "expo": "^50.0.0",
     "expo-camera": "14.0.x",
