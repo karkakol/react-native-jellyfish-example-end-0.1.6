@@ -1,4 +1,7 @@
 {
   "name": "JellyfishMobileExample",
-  "displayName": "JellyfishMobileExample"
+  "displayName": "JellyfishMobileExample",
+  "plugins": [
+    "expo-font"
+  ]
 }
